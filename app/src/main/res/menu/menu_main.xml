@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.chenghan.employees.ui.MainActivity">
+    <item
+        android:id="@+id/sort_name"
+        android:orderInCategory="100"
+        android:title="@string/sort_by_name"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/group_team"
+        android:orderInCategory="100"
+        android:title="@string/group_by_team"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/group_type"
+        android:orderInCategory="100"
+        android:title="@string/group_by_employe_type"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/load_empty"
+        android:orderInCategory="100"
+        android:title="@string/load_empty"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/load_error"
+        android:orderInCategory="100"
+        android:title="@string/load_error"
+        app:showAsAction="never" />
+
+</menu>

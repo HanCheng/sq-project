@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Employees</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="sort_by_name">Sort by name</string>
+    <string name="group_by_employe_type">Group by employee type</string>
+    <string name="group_by_team">Group by team</string>
+    <string name="load_empty">Load empty data</string>
+    <string name="load_error">Load error data</string>
+
+    <string name="empty_text">EMPTY LIST</string>
+    <string name="error_text">ERROR ON EMPLOYEE LIST</string>
+
+</resources>
