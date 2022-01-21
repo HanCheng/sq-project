@@ -21,10 +21,10 @@ the adapter will use the type(DisplayableType) to create different UI, in this c
 4. Memory leak is a big thing and can gives us lots of headache and cause lots of strange bugs when in production where different users have different use cases
 
 ## How long did you spend on this project?
-day 1: 19:00 - 21:00 for 2 hours finished all the basic structure, from api, json data, viewmodels, activity, adapter, simple UI
-day 2: 11:45 - 13:00 for 1.5 hours finished the rest, including sort, group by team and employee type , 
+1. day 1: 19:00 - 21:00 for 2 hours finished all the basic structure, from api, json data, viewmodels, activity, adapter, simple UI
+2. day 2: 11:45 - 13:00 for 1.5 hours finished the rest, including sort, group by team and employee type , 
   created different UI for different view types(header and employee),  refresh button, error handling
-  13:00 - 13:20 for 20 min, publish code to the github and write the README
+3. day 3: 13:00 - 13:20 for 20 min, publish code to the github and write the README
 
 ## Did you make any trade-offs for this project? What would you have done differently with more time?
 Trade-offs due to time limits
